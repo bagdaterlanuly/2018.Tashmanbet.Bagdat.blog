@@ -1,0 +1,4 @@
+include '2018.Tashmanbet.Bagdat.blog.parent.client'
+include '2018.Tashmanbet.Bagdat.blog.parent.controller'
+include '2018.Tashmanbet.Bagdat.blog.parent.stand'
+
