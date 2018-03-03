@@ -1,7 +1,8 @@
-package kz.greetgo.education.stand.beans;
+package kz.greetgo.blog.stand.beans;
 
+import kz.greetgo.blog.stand.utils.WebAppContextRegistration;
 import kz.greetgo.depinject.core.Bean;
-import kz.greetgo.education.stand.util.WebAppContextRegistration;
+import kz.greetgo.blog.stand.utils.WebAppContextRegistration;
 import org.eclipse.jetty.servlet.FilterHolder;
 import org.eclipse.jetty.webapp.WebAppContext;
 

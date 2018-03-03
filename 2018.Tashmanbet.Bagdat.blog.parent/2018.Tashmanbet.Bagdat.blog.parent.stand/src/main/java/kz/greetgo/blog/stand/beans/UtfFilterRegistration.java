@@ -18,7 +18,9 @@ public class UtfFilterRegistration implements WebAppContextRegistration, Filter 
 
     @Override
     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
-        System.out.println("hello");
+        request.setCharacterEncoding("UTF-8");
+        response.setCharacterEncoding("UTF-8");
+        chain.doFilter(request,response);
     }
 
     @Override

@@ -1,4 +1,6 @@
 dependencies {
+    compile project(':2018.Tashmanbet.Bagdat.blog.parent.controller')
+
     compile group: 'kz.greetgo.mvc', name: 'greetgo.mvc', version: '2.1.0'
     compile "kz.greetgo.depinject:greetgo.depinject:2.0.0"
     compile "kz.greetgo.depinject:greetgo.depinject.gen:2.0.0"
