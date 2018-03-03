@@ -18,7 +18,7 @@ public class UtfFilterRegistration implements WebAppContextRegistration, Filter 
 
     @Override
     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
-        System.out.println("welcome first");
+        System.out.println("hello");
     }
 
     @Override
