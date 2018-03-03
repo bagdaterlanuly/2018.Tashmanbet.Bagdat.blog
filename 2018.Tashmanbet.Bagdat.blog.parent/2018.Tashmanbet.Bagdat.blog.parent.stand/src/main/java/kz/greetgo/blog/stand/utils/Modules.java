@@ -34,11 +34,11 @@ public class Modules {
     }
 
     public static File clientDir() {
-        return findDir("education.client");
+        return findDir("2018.Tashmanbet.Bagdat.blog.parent.client");
     }
 
     public static File standDir() {
-        return findDir("2018.Tashmanbet.Bagdat.blog.parent.client");
+        return findDir("2018.Tashmanbet.Bagdat.blog.parent.stand");
     }
 
     public static File controllerDir() {
