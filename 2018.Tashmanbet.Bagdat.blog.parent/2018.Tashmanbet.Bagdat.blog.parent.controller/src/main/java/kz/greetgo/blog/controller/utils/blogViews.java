@@ -1,18 +1,15 @@
-package kz.greetgo.education.controller.utils;
+package kz.greetgo.blog.controller.utils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import kz.greetgo.education.controller.errors.JsonRestError;
-import kz.greetgo.education.controller.errors.RestError;
-import kz.greetgo.mvc.interfaces.MethodInvokedResult;
-import kz.greetgo.mvc.interfaces.MethodInvoker;
-import kz.greetgo.mvc.interfaces.RequestTunnel;
-import kz.greetgo.mvc.interfaces.Views;
+import kz.greetgo.blog.controller.errors.JsonRestError;
+import kz.greetgo.blog.controller.errors.RestError;
+import kz.greetgo.mvc.interfaces.*;
 
 import java.io.PrintWriter;
 import java.lang.reflect.Method;
 import java.util.Map;
 
-public abstract class EducationViews implements Views {
+public abstract class blogViews implements Views {
   private final ObjectMapper objectMapper = new ObjectMapper();
 
   private String convertToJson(Object object) throws Exception {
@@ -63,7 +60,8 @@ public abstract class EducationViews implements Views {
     assert error != null;
 
     RequestTunnel tunnel = methodInvoker.tunnel();
-    tunnel.setRequestAttribute("ERROR_TYPE", error.getClass().getSimpleName());
+    RequestAttributes requestAttributes = tunnel.requestAttributes();
+    requestAttributes.set("ERROR_TYPE", error.getClass().getSimpleName());
 
     if (error instanceof JsonRestError) {
       JsonRestError restError = (JsonRestError) error;
@@ -115,9 +113,11 @@ public abstract class EducationViews implements Views {
     String place = (String) returnedValue;
 
     RequestTunnel tunnel = methodInvoker.tunnel();
+    RequestAttributes requestAttributes = tunnel.requestAttributes();
+
 
     for (Map.Entry<String, Object> e : methodInvoker.model().data.entrySet()) {
-      tunnel.setRequestAttribute(e.getKey(), e.getValue());
+      requestAttributes.set(e.getKey(), e.getValue());
     }
 
     tunnel.forward(place, true);

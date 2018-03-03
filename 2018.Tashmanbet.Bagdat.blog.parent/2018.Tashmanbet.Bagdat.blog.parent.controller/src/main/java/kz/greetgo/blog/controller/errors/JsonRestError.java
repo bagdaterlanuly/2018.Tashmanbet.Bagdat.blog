@@ -1,4 +1,4 @@
-package kz.greetgo.education.controller.errors;
+package kz.greetgo.blog.controller.errors;
 
 public class JsonRestError extends RestError {
   public final Object sendingAsJsonObject;
