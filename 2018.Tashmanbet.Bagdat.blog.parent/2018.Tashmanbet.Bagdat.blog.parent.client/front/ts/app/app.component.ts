@@ -5,19 +5,17 @@ import "rxjs/add/operator/toPromise";
 
 @Component({
     selector:"blog_app",
-    template:`<div class="login-page">
+    template:`<h1>{{text}}</h1>
+    <h1> {{responseMessage}}</h1>
+    <div class="login-page">
         <div class="form">
-            <form class="register-form">
-                <input type="text" placeholder="name"/>
-                <input type="password" placeholder="password"/>
-                <input type="text" placeholder="email address"/>
-                <button>create</button>
-                <p class="message">Already registered? <a href="#">Sign In</a></p>
-            </form>
-            <form class="login-form">
-                <input type="text" placeholder="username"/>
-                <input type="password" placeholder="password"/>
-                <button>login</button>
+          
+            <form class="login-form" (submit)="onSubmitButtonClicked()">
+                <input type="text" id="login" name="login" placeholder="login" [(ngModel)]="User.username" />
+                <input type="text" id="password" name="password" placeholder="password" [(ngModel)]="User.password"/>
+                
+                <button type="submit">login</button>
+
                 <p class="message">Not registered? <a href="#">Create an account</a></p>
             </form>
         </div>
@@ -25,16 +23,26 @@ import "rxjs/add/operator/toPromise";
     `
 })
 export class AppComponent implements OnInit {
-    private text:string;
+    private responseCode:string;
+    private responseMessage:string;
+
+    User: any={};
+    parameters : { [key: string]: string} = {};
 
     ngOnInit(): void {
-        this.httpService.get("/getMainText").toPromise().then(
-            result =>{
 
-                this.text=result.json().text;
+    }
+    onSubmitButtonClicked():void{
+        this.parameters["username"]=this.User.username;
+        this.parameters["password"]=this.User.password;
+
+        this.httpService.get("/getMainText",this.parameters).toPromise().then(
+            result =>{
+                this.responseCode=result.json().responseCode;
+                this.responseMessage=result.json().responseMessage;
             },
             error =>{
-                this.text="Something is wrong";
+                this.responseMessage="Something is wrong";
 
             }
         )
