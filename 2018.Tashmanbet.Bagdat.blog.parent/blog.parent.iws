@@ -17011,7 +17011,7 @@
       <workItem from="1519982084003" duration="9683000" />
       <workItem from="1520052966913" duration="4507000" />
       <workItem from="1520063072293" duration="11301000" />
-      <workItem from="1521187104358" duration="5977000" />
+      <workItem from="1521187104358" duration="6576000" />
     </task>
     <task id="LOCAL-00001" summary="login page">
       <created>1519372826514</created>
@@ -17038,7 +17038,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45367000" />
+    <option name="totallyTimeSpent" value="45966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -17541,9 +17541,9 @@
         <state relative-caret-position="42">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
           </folding>
         </state>
       </provider>
