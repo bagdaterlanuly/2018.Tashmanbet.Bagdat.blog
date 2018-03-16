@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 *.iml
 *.iws
 *.ipr
 *.gradle
 /.idea
 /build
+=======
+*.iml
+*.iws
+*.ipr
+*.gradle
+/.idea
+/build
+>>>>>>> refs/remotes/origin/master
 /node_modules

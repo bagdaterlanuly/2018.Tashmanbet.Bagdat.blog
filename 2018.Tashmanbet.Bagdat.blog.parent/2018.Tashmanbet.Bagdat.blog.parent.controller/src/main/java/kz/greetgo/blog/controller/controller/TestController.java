@@ -10,9 +10,9 @@ import kz.greetgo.mvc.annotations.Mapping;
 import kz.greetgo.mvc.annotations.Par;
 import kz.greetgo.mvc.annotations.ToJson;
 
+
 @Bean
 public class TestController implements Controller{
-
     public BeanGetter<TestRegister> testRegisterBeans;
 
     public static class User{
