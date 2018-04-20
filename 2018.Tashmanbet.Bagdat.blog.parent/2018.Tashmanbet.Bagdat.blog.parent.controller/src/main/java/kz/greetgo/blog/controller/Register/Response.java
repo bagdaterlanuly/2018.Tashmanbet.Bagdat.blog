@@ -2,12 +2,12 @@ package kz.greetgo.blog.controller.Register;
 
 
 public class Response{
-    public static final int RESPONSE_CODE_SUCCESS=0;
-    public static final int RESPONSE_CODE_FAIL=1;
+    public static final int codesucc=0;
+    public static final int codefail=1;
 
-    public static final String RESPONSE_MESSAGE_NOT_REGISTERED_YET="not registed";
-    public static final String RESPONSE_MESSAGE_INVALID_PASSWORD="Incorrect password";
-    public static final String RESPONSE_MESSAGE_SUCCESS="You are logged in,%s";
+    public static final String notres="not registed";
+    public static final String invpass="Incorrect password";
+    public static final String succmess="You are logged in,%s";
 
     private int responseCode;
     private String responseMessage;

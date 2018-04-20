@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bf02031-613f-4916-ade6-82f00ce63b54" name="Default" comment="qqq">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/build/public/blog/index.html" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/build/public/blog/index.html" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/build/public/blog/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/pug/index.pug" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/pug/index.pug" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.module.ts" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.module.ts" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/gulpfile.js" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/gulpfile.js" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/.gitignore" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/2018.Tashmanbet.Bagdat.blog.parent.controller_main.iml" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/2018.Tashmanbet.Bagdat.blog.parent.controller_main.iml" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/2018.Tashmanbet.Bagdat.blog.parent.controller_test.iml" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/2018.Tashmanbet.Bagdat.blog.parent.controller_test.iml" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/blog.controller.iml" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/blog.controller.iml" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/build.gradle" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/build/libs/2018.li.dmitriy.blog.parent.controller.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/out/production/classes/kz/greetgo/blog/controller/Register/Response.class" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/out/production/classes/kz/greetgo/blog/controller/Register/Response.class" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/out/production/classes/kz/greetgo/blog/controller/controller/TestController.class" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/out/production/classes/kz/greetgo/blog/controller/controller/TestController.class" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/controller/TestController.java" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/controller/TestController.java" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/2018.Tashmanbet.Bagdat.blog.parent.stand_main.iml" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/2018.Tashmanbet.Bagdat.blog.parent.stand_main.iml" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/2018.Tashmanbet.Bagdat.blog.parent.stand_test.iml" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/2018.Tashmanbet.Bagdat.blog.parent.stand_test.iml" />
-      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/out/production/classes/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.class" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/out/production/classes/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.class" />
+      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/build/public/blog/js/main.js" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/build/public/blog/js/main.js" />
+      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/Response.java" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/Response.java" />
+      <change beforePath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.java" afterPath="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.java" />
+      <change beforePath="$PROJECT_DIR$/blog.parent.ipr" afterPath="$PROJECT_DIR$/blog.parent.ipr" />
       <change beforePath="$PROJECT_DIR$/blog.parent.iws" afterPath="$PROJECT_DIR$/blog.parent.iws" />
     </list>
     <ignored path="$PROJECT_DIR$/blog.stand/.gradle/" />
@@ -57,6 +42,18 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
     <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
   </component>
   <component name="DebuggerManager">
     <breakpoint_any converted="true">
@@ -156,34 +153,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestClassForTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.register/src/main/java/kz/greetgo/blog/register/impl/TestClassForTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanConfigForPackageController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/controller/BeanConfigForPackageController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
+            <state relative-caret-position="63">
               <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -205,8 +178,38 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2099">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="273">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UtfFilterRegistration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/beans/UtfFilterRegistration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRegisterIMpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="31" column="62" lean-forward="false" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Response.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/Response.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -222,11 +225,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
               <folding>
                 <marker date="1521191508469" expanded="true" signature="273:818" ph="..." />
                 <marker date="1521191508469" expanded="true" signature="300:807" ph="..." />
@@ -240,7 +243,7 @@
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="21">
               <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -254,16 +257,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
               <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -1318,14 +1311,14 @@
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/User.java" />
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/User.ts" />
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/user.ts" />
-        <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.java" />
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/Response.java" />
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.register/src/main/java/kz/greetgo/blog/register/impl/TestClassForTest.java" />
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/gulpfile.js" />
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/pug/index.pug" />
         <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/gulpfile.js" />
+        <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/Response.java" />
+        <option value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.java" />
       </list>
     </option>
   </component>
@@ -1348,9 +1341,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="-9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="36" />
+    <option name="y" value="83" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -1395,9 +1388,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1408,39 +1401,6 @@
             <path>
               <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="2018.Tashmanbet.Bagdat.blog.parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent.client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent.client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent.client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="pug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent.client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="ts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent.client" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="front" type="462c0819:PsiDirectoryNode" />
-              <item name="ts" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="2018.Tashmanbet.Bagdat.blog.parent.controller" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -1481,17 +1441,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="2018.Tashmanbet.Bagdat.blog.parent.controller" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="Register" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog.parent" type="b2602c69:ProjectViewProjectNode" />
@@ -1536,13 +1486,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stand" type="462c0819:PsiDirectoryNode" />
-              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1746,7 +1696,8 @@
       <workItem from="1520052966913" duration="4507000" />
       <workItem from="1520063072293" duration="11301000" />
       <workItem from="1521187104358" duration="7927000" />
-      <workItem from="1521196863319" duration="1385000" />
+      <workItem from="1521196863319" duration="2453000" />
+      <workItem from="1522397116315" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="login page">
       <created>1519372826514</created>
@@ -1773,15 +1724,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48702000" />
+    <option name="totallyTimeSpent" value="50634000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="36" y="83" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1789,13 +1739,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39052287" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2859477" sideWeight="0.6686838" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2859477" sideWeight="0.6686838" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2065053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.056732222" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20995334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.038102645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.054462936" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1805,8 +1754,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3006536" sideWeight="0.49394855" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1870,7 +1821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1936,7 +1886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1966,7 +1915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2002,13 +1950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/beans/UtfFilterRegistration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -2095,26 +2036,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="75" lean-forward="false" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/provider/HttpService.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1497">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2129,7 +2054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2137,7 +2061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2145,7 +2068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2153,7 +2075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2161,11 +2082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2173,7 +2089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2187,7 +2102,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
+        <state relative-caret-position="63">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2199,14 +2114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2099">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2229,7 +2136,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="21">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
@@ -2240,13 +2147,45 @@
     <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/front/ts/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           <folding>
             <marker date="1521191508469" expanded="true" signature="273:818" ph="..." />
             <marker date="1521191508469" expanded="true" signature="300:807" ph="..." />
             <marker date="1521191508469" expanded="true" signature="384:792" ph="..." />
             <marker date="1521191508469" expanded="true" signature="386:792" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.client/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/beans/UtfFilterRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.controller/src/main/java/kz/greetgo/blog/controller/Register/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018.Tashmanbet.Bagdat.blog.parent.stand/src/main/java/kz/greetgo/blog/stand/registr_impl/TestRegisterIMpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="31" column="62" lean-forward="false" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>

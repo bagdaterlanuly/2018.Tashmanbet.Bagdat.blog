@@ -15,7 +15,12 @@ allprojects {
 }
 
 subprojects {
-
+    ext.greetgoMvcVersion = "2.1.0"
+    ext.greetgoDepInjectVersion = "2.0.0"
+    ext.guavaVerion = "12.0"
+    ext.greetgoConVersion = "0.1.5"
+    ext.greetgoDbVersion = "2.0.0"
+    ext.log4g = "1.7.21"
     repositories {
         mavenLocal();
         mavenCentral();

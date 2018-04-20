@@ -21,16 +21,16 @@ public class TestRegisterIMpl implements TestRegister {
     @Override
     public Response login(String username, String password) {
         Response response=new Response();
-        response.setResponseCode(Response.RESPONSE_CODE_FAIL);
-        response.setResponseMessage(Response.RESPONSE_MESSAGE_NOT_REGISTERED_YET);
+        response.setResponseCode(Response.codefail);
+        response.setResponseMessage(Response.notres);
         for (User userI:registeredUsers){
             if (username.equals(userI.getUsername())){
                 if (password.equals(userI.getPassword())){
-                    response.setResponseCode(Response.RESPONSE_CODE_SUCCESS);
-                    response.setResponseMessage(String.format(Response.RESPONSE_MESSAGE_SUCCESS,username));
+                    response.setResponseCode(Response.codesucc);
+                    response.setResponseMessage(String.format(Response.succmess,username));
                 }else {
-                    response.setResponseCode(Response.RESPONSE_CODE_FAIL);
-                    response.setResponseMessage(Response.RESPONSE_MESSAGE_INVALID_PASSWORD);
+                    response.setResponseCode(Response.codefail);
+                    response.setResponseMessage(Response.invpass);
                 }
                 break;
             }
